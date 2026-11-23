@@ -1,0 +1,314 @@
+[
+  {
+    "id": "verb_be",
+    "v1Infinitive": "be",
+    "v2PastSimple": "was / were",
+    "v3PastParticiple": "been",
+    "russianMeaning": "быть, являться, находиться",
+    "level": "A1",
+    "examples": {
+      "v1": "I want to be confident.",
+      "v2": "She was happy yesterday, and they were ready.",
+      "v3": "Have you ever been to London?"
+    }
+  },
+  {
+    "id": "verb_have",
+    "v1Infinitive": "have",
+    "v2PastSimple": "had",
+    "v3PastParticiple": "had",
+    "russianMeaning": "иметь, обладать",
+    "level": "A1",
+    "examples": {
+      "v1": "They have a great idea.",
+      "v2": "We had lunch an hour ago.",
+      "v3": "She had already left before noon."
+    }
+  },
+  {
+    "id": "verb_do",
+    "v1Infinitive": "do",
+    "v2PastSimple": "did",
+    "v3PastParticiple": "done",
+    "russianMeaning": "делать, выполнять",
+    "level": "A1",
+    "examples": {
+      "v1": "I do my best every day.",
+      "v2": "He did the homework yesterday.",
+      "v3": "The work is finally done."
+    }
+  },
+  {
+    "id": "verb_go",
+    "v1Infinitive": "go",
+    "v2PastSimple": "went",
+    "v3PastParticiple": "gone",
+    "russianMeaning": "идти, ехать, отправляться",
+    "level": "A1",
+    "examples": {
+      "v1": "Let's go to the park.",
+      "v2": "They went to Spain last summer.",
+      "v3": "He has gone to the office."
+    }
+  },
+  {
+    "id": "verb_see",
+    "v1Infinitive": "see",
+    "v2PastSimple": "saw",
+    "v3PastParticiple": "seen",
+    "russianMeaning": "видеть, смотреть",
+    "level": "A1",
+    "examples": {
+      "v1": "Can you see the screen?",
+      "v2": "I saw an amazing film last night.",
+      "v3": "Have you seen my keys?"
+    }
+  },
+  {
+    "id": "verb_come",
+    "v1Infinitive": "come",
+    "v2PastSimple": "came",
+    "v3PastParticiple": "come",
+    "russianMeaning": "приходить, приезжать",
+    "level": "A1",
+    "examples": {
+      "v1": "Please come in.",
+      "v2": "She came back late yesterday.",
+      "v3": "Spring has come early this year."
+    }
+  },
+  {
+    "id": "verb_take",
+    "v1Infinitive": "take",
+    "v2PastSimple": "took",
+    "v3PastParticiple": "taken",
+    "russianMeaning": "брать, занимать (время)",
+    "level": "A2",
+    "examples": {
+      "v1": "Take your time.",
+      "v2": "It took twenty minutes.",
+      "v3": "This photo was taken in Paris."
+    }
+  },
+  {
+    "id": "verb_give",
+    "v1Infinitive": "give",
+    "v2PastSimple": "gave",
+    "v3PastParticiple": "given",
+    "russianMeaning": "давать, дарить",
+    "level": "A2",
+    "examples": {
+      "v1": "Give me a hand, please.",
+      "v2": "He gave me helpful feedback.",
+      "v3": "I was given an opportunity."
+    }
+  },
+  {
+    "id": "verb_make",
+    "v1Infinitive": "make",
+    "v2PastSimple": "made",
+    "v3PastParticiple": "made",
+    "russianMeaning": "делать, создавать, производить",
+    "level": "A2",
+    "examples": {
+      "v1": "I make coffee every morning.",
+      "v2": "They made a crucial decision.",
+      "v3": "This device is made of titanium."
+    }
+  },
+  {
+    "id": "verb_know",
+    "v1Infinitive": "know",
+    "v2PastSimple": "knew",
+    "v3PastParticiple": "known",
+    "russianMeaning": "знать, понимать",
+    "level": "A2",
+    "examples": {
+      "v1": "I know what you mean.",
+      "v2": "I knew the answer right away.",
+      "v3": "He is well known for his books."
+    }
+  },
+  {
+    "id": "verb_think",
+    "v1Infinitive": "think",
+    "v2PastSimple": "thought",
+    "v3PastParticiple": "thought",
+    "russianMeaning": "думать, полагать",
+    "level": "A2",
+    "examples": {
+      "v1": "What do you think?",
+      "v2": "I thought about your proposal.",
+      "v3": "She had thought of everything."
+    }
+  },
+  {
+    "id": "verb_speak",
+    "v1Infinitive": "speak",
+    "v2PastSimple": "spoke",
+    "v3PastParticiple": "spoken",
+    "russianMeaning": "говорить, разговаривать",
+    "level": "A2",
+    "examples": {
+      "v1": "Do you speak English?",
+      "v2": "We spoke on the phone.",
+      "v3": "English is spoken worldwide."
+    }
+  },
+  {
+    "id": "verb_write",
+    "v1Infinitive": "write",
+    "v2PastSimple": "wrote",
+    "v3PastParticiple": "written",
+    "russianMeaning": "писать, записывать",
+    "level": "A2",
+    "examples": {
+      "v1": "Write down your thoughts.",
+      "v2": "She wrote an inspiring article.",
+      "v3": "The book was written in 1999."
+    }
+  },
+  {
+    "id": "verb_read",
+    "v1Infinitive": "read",
+    "v2PastSimple": "read",
+    "v3PastParticiple": "read",
+    "russianMeaning": "читать (произносится /riːd/ -> /rɛd/ -> /rɛd/)",
+    "level": "A2",
+    "examples": {
+      "v1": "I love to read before sleep.",
+      "v2": "He read the report carefully yesterday.",
+      "v3": "Have you read this chapter?"
+    }
+  },
+  {
+    "id": "verb_choose",
+    "v1Infinitive": "choose",
+    "v2PastSimple": "chose",
+    "v3PastParticiple": "chosen",
+    "russianMeaning": "выбирать, избирать",
+    "level": "B1",
+    "examples": {
+      "v1": "Choose wisely.",
+      "v2": "They chose the best candidate.",
+      "v3": "You have chosen the right path."
+    }
+  },
+  {
+    "id": "verb_bring",
+    "v1Infinitive": "bring",
+    "v2PastSimple": "brought",
+    "v3PastParticiple": "brought",
+    "russianMeaning": "приносить, приводить",
+    "level": "B1",
+    "examples": {
+      "v1": "Please bring your laptop.",
+      "v2": "The news brought relief to everyone.",
+      "v3": "She has brought tasty snacks."
+    }
+  },
+  {
+    "id": "verb_build",
+    "v1Infinitive": "build",
+    "v2PastSimple": "built",
+    "v3PastParticiple": "built",
+    "russianMeaning": "строить, создавать",
+    "level": "B1",
+    "examples": {
+      "v1": "We want to build a modern app.",
+      "v2": "They built a bridge in two years.",
+      "v3": "Trust is built over time."
+    }
+  },
+  {
+    "id": "verb_lead",
+    "v1Infinitive": "lead",
+    "v2PastSimple": "led",
+    "v3PastParticiple": "led",
+    "russianMeaning": "вести, руководить, приводить к",
+    "level": "B1",
+    "examples": {
+      "v1": "Good leaders inspire and lead.",
+      "v2": "The experiment led to unexpected findings.",
+      "v3": "She has led several key initiatives."
+    }
+  },
+  {
+    "id": "verb_grow",
+    "v1Infinitive": "grow",
+    "v2PastSimple": "grew",
+    "v3PastParticiple": "grown",
+    "russianMeaning": "расти, выращивать, увеличиваться",
+    "level": "B1",
+    "examples": {
+      "v1": "Our team continues to grow.",
+      "v2": "Revenue grew by 20% last quarter.",
+      "v3": "He has grown into a strong developer."
+    }
+  },
+  {
+    "id": "verb_understand",
+    "v1Infinitive": "understand",
+    "v2PastSimple": "understood",
+    "v3PastParticiple": "understood",
+    "russianMeaning": "понимать, осознавать",
+    "level": "B1",
+    "examples": {
+      "v1": "I understand your perspective.",
+      "v2": "We understood the requirements.",
+      "v3": "The terms are clearly understood."
+    }
+  },
+  {
+    "id": "verb_arise",
+    "v1Infinitive": "arise",
+    "v2PastSimple": "arose",
+    "v3PastParticiple": "arisen",
+    "russianMeaning": "возникать, появляться (о проблемах/вопросах)",
+    "level": "B2",
+    "examples": {
+      "v1": "Should complications arise, let me know.",
+      "v2": "A debate arose during the conference.",
+      "v3": "New questions have arisen regarding security."
+    }
+  },
+  {
+    "id": "verb_undergo",
+    "v1Infinitive": "undergo",
+    "v2PastSimple": "underwent",
+    "v3PastParticiple": "undergone",
+    "russianMeaning": "подвергаться, проходить (испытание, трансформацию)",
+    "level": "B2",
+    "examples": {
+      "v1": "The system must undergo rigorous testing.",
+      "v2": "The architecture underwent complete refactoring.",
+      "v3": "The team has undergone extensive training."
+    }
+  },
+  {
+    "id": "verb_withstand",
+    "v1Infinitive": "withstand",
+    "v2PastSimple": "withstood",
+    "v3PastParticiple": "withstood",
+    "russianMeaning": "выдерживать, противостоять",
+    "level": "B2",
+    "examples": {
+      "v1": "The infrastructure must withstand peak traffic.",
+      "v2": "The building withstood the hurricane.",
+      "v3": "The policy has withstood intense scrutiny."
+    }
+  },
+  {
+    "id": "verb_overcome",
+    "v1Infinitive": "overcome",
+    "v2PastSimple": "overcame",
+    "v3PastParticiple": "overcome",
+    "russianMeaning": "преодолевать, побеждать",
+    "level": "B2",
+    "examples": {
+      "v1": "Persistence helps us overcome obstacles.",
+      "v2": "They overcame severe technical debt.",
+      "v3": "All major challenges have been overcome."
+    }
+  }
+]

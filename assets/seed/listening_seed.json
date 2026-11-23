@@ -1,0 +1,96 @@
+[
+  {
+    "id": "listen_mp_sheep_ship",
+    "transcript": "Look at that sheep in the green meadow.",
+    "russianTranslation": "Посмотри на ту овцу на зелёном лугу.",
+    "level": "A1",
+    "type": "minimal_pair",
+    "options": {
+      "pair": [
+        "sheep /ʃiːp/ (овца)",
+        "ship /ʃɪp/ (корабль)"
+      ],
+      "correct": "sheep /ʃiːp/ (овца)",
+      "targetWord": "sheep",
+      "phonemeHint": "Долгий звук /iː/ vs краткий /ɪ/"
+    },
+    "audioUrl": "assets/audio/listening/listen_mp_sheep_ship.mp3"
+  },
+  {
+    "id": "listen_mp_think_sink",
+    "transcript": "What do you think about this plan?",
+    "russianTranslation": "Что ты думаешь об этом плане?",
+    "level": "A2",
+    "type": "minimal_pair",
+    "options": {
+      "pair": [
+        "think /θɪŋk/ (думать)",
+        "sink /sɪŋk/ (тонуть/раковина)"
+      ],
+      "correct": "think /θɪŋk/ (думать)",
+      "targetWord": "think",
+      "phonemeHint": "Межзубный звук /θ/ vs свистящий /s/"
+    },
+    "audioUrl": "assets/audio/listening/listen_mp_think_sink.mp3"
+  },
+  {
+    "id": "listen_dict_1",
+    "transcript": "Could you please tell me where the nearest metro station is?",
+    "russianTranslation": "Не подскажете ли, где находится ближайшая станция метро?",
+    "level": "A2",
+    "type": "dictation",
+    "options": {
+      "hint": "Вежливая просьба с 'Could you please...'"
+    },
+    "audioUrl": "assets/audio/listening/listen_dict_1.mp3"
+  },
+  {
+    "id": "listen_puzzle_1",
+    "transcript": "Success is the sum of small efforts repeated daily.",
+    "russianTranslation": "Успех — это сумма небольших усилий, повторяемых ежедневно.",
+    "level": "B1",
+    "type": "puzzle",
+    "options": {
+      "scrambled": [
+        "sum",
+        "daily",
+        "Success",
+        "repeated",
+        "small",
+        "is",
+        "of",
+        "efforts",
+        "the"
+      ]
+    },
+    "audioUrl": "assets/audio/listening/listen_puzzle_1.mp3"
+  },
+  {
+    "id": "listen_mp_bed_bad",
+    "transcript": "I had a really bad day at work yesterday.",
+    "russianTranslation": "Вчера на работе у меня был по-настоящему плохой день.",
+    "level": "B1",
+    "type": "minimal_pair",
+    "options": {
+      "pair": [
+        "bad /bæd/ (плохой)",
+        "bed /bed/ (кровать)"
+      ],
+      "correct": "bad /bæd/ (плохой)",
+      "targetWord": "bad",
+      "phonemeHint": "Широкий гласный /æ/ vs средний /e/"
+    },
+    "audioUrl": "assets/audio/listening/listen_mp_bed_bad.mp3"
+  },
+  {
+    "id": "listen_dict_b2",
+    "transcript": "Despite numerous obstacles, the breakthrough exceeded all expectations.",
+    "russianTranslation": "Несмотря на многочисленные препятствия, прорыв превзошел все ожидания.",
+    "level": "B2",
+    "type": "dictation",
+    "options": {
+      "hint": "Формальный стиль, вводное слово 'Despite...'"
+    },
+    "audioUrl": "assets/audio/listening/listen_dict_b2.mp3"
+  }
+]

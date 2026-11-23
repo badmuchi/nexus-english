@@ -1,0 +1,52 @@
+name: nexus_english_app
+description: Offline-first English learning application (CEFR A1-B2) built with Clean Architecture, Drift SQLite, and FSRS.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dio: ^5.9.2
+  drift: ^2.24.0
+  drift_flutter: ^0.3.0
+  equatable: ^3.0.0
+  flutter_bloc: ^9.1.1
+  flutter_secure_storage: ^10.2.0
+  flutter_tts: ^4.2.5
+  just_audio: ^0.10.5
+  unorm_dart: ^0.3.3
+  fl_chart: ^1.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  bloc_test: ^10.0.0
+  build_runner: ^2.4.14
+  drift_dev: ^2.24.0
+  flutter_lints: ^6.0.0
+  mocktail: ^1.0.5
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/seed/
+    - assets/seed/dialogues_seed.json
+    - assets/seed/dictionary_seed.json
+    - assets/seed/grammar_verbs_seed.json
+    - assets/seed/grammar_topics_seed.json
+    - assets/seed/listening_seed.json
+    - assets/seed/phrasal_verbs_seed.json
+    - assets/seed/srs_seed.json
+    - assets/seed/stories_seed.json
+    - assets/seed/phonics_seed.json
+    - assets/seed/slang_seed.json
+    - assets/seed/shadowing_seed.json
+    - assets/audio/
+    - assets/audio/dialogue/
+    - assets/audio/listening/
+    - assets/audio/dictionary/
+    - assets/audio/slang/
+    - assets/audio/shadowing/

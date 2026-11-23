@@ -1,0 +1,92 @@
+[
+  {
+    "id": "srs_apple",
+    "frontEnglish": "apple",
+    "backRussian": "яблоко",
+    "transcriptionIpa": "/ˈæp.əl/",
+    "level": "A1",
+    "category": "Food",
+    "exampleSentence": "She ate a fresh green apple.",
+    "exampleTranslation": "Она съела свежее зеленое яблоко."
+  },
+  {
+    "id": "srs_water",
+    "frontEnglish": "water",
+    "backRussian": "вода",
+    "transcriptionIpa": "/ˈwɔː.tər/",
+    "level": "A1",
+    "category": "Basics",
+    "exampleSentence": "Could I have a glass of water, please?",
+    "exampleTranslation": "Можно мне стакан воды, пожалуйста?"
+  },
+  {
+    "id": "srs_book",
+    "frontEnglish": "book",
+    "backRussian": "книга, бронировать",
+    "transcriptionIpa": "/bʊk/",
+    "level": "A1",
+    "category": "Basics",
+    "exampleSentence": "I want to book a hotel room.",
+    "exampleTranslation": "Я хочу забронировать номер в отеле."
+  },
+  {
+    "id": "srs_journey",
+    "frontEnglish": "journey",
+    "backRussian": "путешествие, длительная поездка",
+    "transcriptionIpa": "/ˈdʒɜː.ni/",
+    "level": "A2",
+    "category": "Travel",
+    "exampleSentence": "Safe journey home!",
+    "exampleTranslation": "Счастливого пути домой!"
+  },
+  {
+    "id": "srs_decide",
+    "frontEnglish": "decide",
+    "backRussian": "решать, принимать решение",
+    "transcriptionIpa": "/dɪˈsaɪd/",
+    "level": "A2",
+    "category": "Verbs",
+    "exampleSentence": "It is hard to decide right now.",
+    "exampleTranslation": "Трудно решить прямо сейчас."
+  },
+  {
+    "id": "srs_opportunity",
+    "frontEnglish": "opportunity",
+    "backRussian": "возможность, удобный случай",
+    "transcriptionIpa": "/ˌɒp.əˈtʃuː.nə.ti/",
+    "level": "B1",
+    "category": "Career",
+    "exampleSentence": "Grab every good opportunity.",
+    "exampleTranslation": "Хватайся за каждую хорошую возможность."
+  },
+  {
+    "id": "srs_efficient",
+    "frontEnglish": "efficient",
+    "backRussian": "эффективный, действенный",
+    "transcriptionIpa": "/ɪˈfɪʃ.ənt/",
+    "level": "B1",
+    "category": "Business",
+    "exampleSentence": "This method is much more efficient.",
+    "exampleTranslation": "Этот метод намного эффективнее."
+  },
+  {
+    "id": "srs_ambiguous",
+    "frontEnglish": "ambiguous",
+    "backRussian": "двусмысленный, неоднозначный",
+    "transcriptionIpa": "/æmˈbɪɡ.ju.əs/",
+    "level": "B2",
+    "category": "Academic",
+    "exampleSentence": "His statement was rather ambiguous.",
+    "exampleTranslation": "Его заявление было довольно двусмысленным."
+  },
+  {
+    "id": "srs_scrutinize",
+    "frontEnglish": "scrutinize",
+    "backRussian": "тщательно исследовать, пристально изучать",
+    "transcriptionIpa": "/ˈskruː.tɪ.naɪz/",
+    "level": "B2",
+    "category": "Academic",
+    "exampleSentence": "The auditor scrutinized the code thoroughly.",
+    "exampleTranslation": "Аудитор досконально изучил код."
+  }
+]

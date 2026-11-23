@@ -1,0 +1,412 @@
+[
+  {
+    "id": "node_cafe_1",
+    "level": "A1",
+    "characterName": "Emma (Barista • 🇬🇧 UK)",
+    "lineEnglish": "Good morning! What can I get for you today?",
+    "lineRussian": "Доброе утро! Что для вас приготовить?",
+    "audioPath": "assets/audio/dialogue/node_cafe_1.mp3",
+    "options": [
+      {
+        "id": "opt_cappuccino",
+        "labelEnglish": "Could I have a cappuccino and a croissant, please?",
+        "labelRussian": "Можно мне капучино и круассан, пожалуйста?",
+        "targetNodeId": "node_cafe_2_cappuccino",
+        "audioPath": "assets/audio/dialogue/opt_cappuccino.mp3"
+      },
+      {
+        "id": "opt_tea",
+        "labelEnglish": "Just an Earl Grey tea to go, please.",
+        "labelRussian": "Просто чай Эрл Грей с собой, пожалуйста.",
+        "targetNodeId": "node_cafe_2_tea",
+        "audioPath": "assets/audio/dialogue/opt_tea.mp3"
+      }
+    ]
+  },
+  {
+    "id": "node_cafe_2_cappuccino",
+    "level": "A1",
+    "characterName": "Emma (Barista • 🇬🇧 UK)",
+    "lineEnglish": "Great choice! What kind of milk would you like with that?",
+    "lineRussian": "Отличный выбор! Какое молоко предпочитаете?",
+    "audioPath": "assets/audio/dialogue/node_cafe_2_cappuccino.mp3",
+    "options": [
+      {
+        "id": "opt_oat",
+        "labelEnglish": "Oat milk, please. How much is that altogether?",
+        "labelRussian": "Овсяное молоко, пожалуйста. Сколько всего с меня?",
+        "targetNodeId": "node_cafe_3_payment",
+        "audioPath": "assets/audio/dialogue/opt_oat.mp3"
+      },
+      {
+        "id": "opt_whole",
+        "labelEnglish": "Regular milk is great, thanks.",
+        "labelRussian": "Обычное цельное молоко подойдет, спасибо.",
+        "targetNodeId": "node_cafe_3_payment",
+        "audioPath": "assets/audio/dialogue/opt_whole.mp3"
+      }
+    ]
+  },
+  {
+    "id": "node_cafe_2_tea",
+    "level": "A1",
+    "characterName": "Emma (Barista • 🇬🇧 UK)",
+    "lineEnglish": "Sure thing! Would you like a slice of lemon or honey?",
+    "lineRussian": "Без проблем! Добавить дольку лимона или мёд?",
+    "audioPath": "assets/audio/dialogue/node_cafe_2_tea.mp3",
+    "options": [
+      {
+        "id": "opt_lemon",
+        "labelEnglish": "A slice of lemon would be lovely, thanks.",
+        "labelRussian": "Дольку лимона было бы здорово, спасибо.",
+        "targetNodeId": "node_cafe_3_payment",
+        "audioPath": "assets/audio/dialogue/opt_lemon.mp3"
+      }
+    ]
+  },
+  {
+    "id": "node_cafe_3_payment",
+    "level": "A1",
+    "characterName": "Emma (Barista • 🇬🇧 UK)",
+    "lineEnglish": "That will be four pounds fifty, please. Paying by card or cash?",
+    "lineRussian": "С вас 4 фунта 50 пенсов. Оплата картой или наличными?",
+    "audioPath": "assets/audio/dialogue/node_cafe_3_payment.mp3",
+    "options": [
+      {
+        "id": "opt_card",
+        "labelEnglish": "Contactless card, please. Here you go.",
+        "labelRussian": "Бесконтактной картой, пожалуйста. Вот, держите.",
+        "targetNodeId": "node_cafe_finish",
+        "audioPath": "assets/audio/dialogue/opt_card.mp3"
+      }
+    ]
+  },
+  {
+    "id": "node_cafe_finish",
+    "level": "A1",
+    "characterName": "Emma (Barista • 🇬🇧 UK)",
+    "lineEnglish": "All set! Your drink will be ready at the counter in just a moment. Have a wonderful day!",
+    "lineRussian": "Все готово! Ваш напиток будет на стойке через минуту. Отличного вам дня!",
+    "audioPath": "assets/audio/dialogue/node_cafe_finish.mp3",
+    "options": [
+      {
+        "id": "opt_restart_cafe",
+        "labelEnglish": "Thank you so much! You too!",
+        "labelRussian": "Большое спасибо! И вам того же!",
+        "targetNodeId": "node_cafe_1",
+        "audioPath": "assets/audio/dialogue/opt_restart_cafe.mp3"
+      }
+    ]
+  },
+  {
+    "id": "node_ny_cafe_1",
+    "level": "A1",
+    "characterName": "Jenny (Barista • 🇺🇸 US)",
+    "lineEnglish": "Good morning! What can I get for you today?",
+    "lineRussian": "Доброе утро! Что для вас приготовить сегодня?",
+    "audioPath": "assets/audio/dialogue/node_ny_cafe_1.mp3",
+    "options": [
+      {
+        "id": "opt_ny_latte",
+        "labelEnglish": "Could I get an iced latte and a blueberry muffin, please?",
+        "labelRussian": "Можно мне айс-латте и черничный маффин, пожалуйста?",
+        "targetNodeId": "node_ny_cafe_2",
+        "audioPath": "assets/audio/dialogue/opt_ny_latte.mp3"
+      },
+      {
+        "id": "opt_ny_drip",
+        "labelEnglish": "Just a medium black coffee to go, please.",
+        "labelRussian": "Просто средний черный кофе с собой, пожалуйста.",
+        "targetNodeId": "node_ny_cafe_2",
+        "audioPath": "assets/audio/dialogue/opt_ny_drip.mp3"
+      }
+    ]
+  },
+  {
+    "id": "node_ny_cafe_2",
+    "level": "A1",
+    "characterName": "Jenny (Barista • 🇺🇸 US)",
+    "lineEnglish": "You got it! That'll be four dollars and fifty cents. Card or cash?",
+    "lineRussian": "Сделаем! С вас четыре доллара пятьдесят центов. Картой или наличными?",
+    "audioPath": "assets/audio/dialogue/node_ny_cafe_2.mp3",
+    "options": [
+      {
+        "id": "opt_ny_card",
+        "labelEnglish": "Card, please. I'll just tap my phone right here.",
+        "labelRussian": "Картой, пожалуйста. Приложу телефон прямо сюда.",
+        "targetNodeId": "node_ny_cafe_finish",
+        "audioPath": "assets/audio/dialogue/opt_ny_card.mp3"
+      }
+    ]
+  },
+  {
+    "id": "node_ny_cafe_finish",
+    "level": "A1",
+    "characterName": "Jenny (Barista • 🇺🇸 US)",
+    "lineEnglish": "All set! Your coffee is coming right up at the pick-up counter. Have an awesome day!",
+    "lineRussian": "Все готово! Ваш кофе сейчас выдадут на стойке выдачи. Отличного дня!",
+    "audioPath": "assets/audio/dialogue/node_ny_cafe_finish.mp3",
+    "options": [
+      {
+        "id": "opt_ny_restart",
+        "labelEnglish": "Thanks a lot! You have a great one too!",
+        "labelRussian": "Огромное спасибо! И тебе отличного дня!",
+        "targetNodeId": "node_ny_cafe_1",
+        "audioPath": "assets/audio/dialogue/opt_ny_restart.mp3"
+      }
+    ]
+  },
+  {
+    "id": "node_interview_1",
+    "level": "B1",
+    "characterName": "Sarah (HR Lead • 🇺🇸 US)",
+    "lineEnglish": "Hi Alex, great to meet you! To get started, could you tell us a bit about your recent projects and experience with Flutter?",
+    "lineRussian": "Привет, Алекс, приятно познакомиться! Для начала расскажите немного о ваших недавних проектах и опыте с Flutter?",
+    "audioPath": "assets/audio/dialogue/node_interview_1.mp3",
+    "options": [
+      {
+        "id": "opt_arch",
+        "labelEnglish": "Sure! Recently, I've been building offline-first apps using Drift SQLite and clean architecture.",
+        "labelRussian": "Конечно! В последнее время я создаю офлайн-приложения с Drift SQLite и чистой архитектурой.",
+        "targetNodeId": "node_interview_2_arch",
+        "audioPath": "assets/audio/dialogue/opt_arch.mp3"
+      },
+      {
+        "id": "opt_perf",
+        "labelEnglish": "I've been focusing on rendering performance, state management with BLoC, and cross-platform UI.",
+        "labelRussian": "Я фокусируюсь на производительности рендеринга, стейт-менеджменте на BLoC и кроссплатформенном UI.",
+        "targetNodeId": "node_interview_2_perf",
+        "audioPath": "assets/audio/dialogue/opt_perf.mp3"
+      }
+    ]
+  },
+  {
+    "id": "node_interview_2_arch",
+    "level": "B1",
+    "characterName": "Sarah (HR Lead • 🇺🇸 US)",
+    "lineEnglish": "That sounds great! How do you handle database migrations and state reactivity in practice?",
+    "lineRussian": "Звучит здорово! А как вы на практике организуете миграции базы данных и реактивность состояния?",
+    "audioPath": "assets/audio/dialogue/node_interview_2_arch.mp3",
+    "options": [
+      {
+        "id": "opt_sync",
+        "labelEnglish": "We write automated schema migration tests and expose reactive Streams from Drift into our Cubits.",
+        "labelRussian": "Мы пишем автотесты на миграции схемы и прокидываем реактивные стримы из Drift в наши кубиты.",
+        "targetNodeId": "node_interview_finish",
+        "audioPath": "assets/audio/dialogue/opt_sync.mp3"
+      }
+    ]
+  },
+  {
+    "id": "node_interview_2_perf",
+    "level": "B1",
+    "characterName": "Sarah (HR Lead • 🇺🇸 US)",
+    "lineEnglish": "That shows great technical depth. And how do you approach code reviews when working with a team?",
+    "lineRussian": "Это показывает глубокую техническую экспертизу. А как вы подходите к код-ревью при работе в команде?",
+    "audioPath": "assets/audio/dialogue/node_interview_2_perf.mp3",
+    "options": [
+      {
+        "id": "opt_review",
+        "labelEnglish": "I focus on code clarity, solid test coverage, and constructive feedback rather than style nitpicks.",
+        "labelRussian": "Я делаю акцент на ясности кода, надежном покрытии тестами и конструктивном фидбеке, а не на мелких придирках к стилю.",
+        "targetNodeId": "node_interview_finish",
+        "audioPath": "assets/audio/dialogue/opt_review.mp3"
+      }
+    ]
+  },
+  {
+    "id": "node_interview_finish",
+    "level": "B1",
+    "characterName": "Sarah (HR Lead • 🇺🇸 US)",
+    "lineEnglish": "That aligns perfectly with how our engineering team works. We'd love to move forward with you!",
+    "lineRussian": "Это идеально совпадает с тем, как работает наша инженерная команда. Будем рады продолжить сотрудничество!",
+    "audioPath": "assets/audio/dialogue/node_interview_finish.mp3",
+    "options": [
+      {
+        "id": "opt_accept",
+        "labelEnglish": "Thank you so much! I'm really excited about the opportunity.",
+        "labelRussian": "Большое спасибо! Очень рад открывающейся возможности.",
+        "targetNodeId": "node_interview_1",
+        "audioPath": "assets/audio/dialogue/opt_accept.mp3"
+      }
+    ]
+  },
+  {
+    "id": "node_taxi_1",
+    "level": "A2",
+    "characterName": "Mike (Cab Driver • 🇺🇸 US)",
+    "lineEnglish": "Hey there! Hop on in. Where are we heading to today in the city?",
+    "lineRussian": "Привет! Запрыгивай. Куда сегодня путь держим в городе?",
+    "audioPath": "assets/audio/dialogue/node_taxi_1.mp3",
+    "options": [
+      {
+        "id": "opt_taxi_hotel",
+        "labelEnglish": "Hi! Could you take me to Times Square, please? How much will it be?",
+        "labelRussian": "Привет! Довезите до Таймс-сквер, пожалуйста. Сколько это будет стоить?",
+        "targetNodeId": "node_taxi_2",
+        "audioPath": "assets/audio/dialogue/opt_taxi_hotel.mp3"
+      },
+      {
+        "id": "opt_taxi_brooklyn",
+        "labelEnglish": "Good evening! I need to get to DUMBO, Brooklyn. How long will it take?",
+        "labelRussian": "Добрый вечер! Мне нужно в DUMBO в Бруклине. Сколько займет дорога?",
+        "targetNodeId": "node_taxi_2",
+        "audioPath": "assets/audio/dialogue/opt_taxi_brooklyn.mp3"
+      }
+    ]
+  },
+  {
+    "id": "node_taxi_2",
+    "level": "A2",
+    "characterName": "Mike (Cab Driver • 🇺🇸 US)",
+    "lineEnglish": "Gotcha! It'll take about forty-five minutes with traffic. Do you have any bags in the trunk?",
+    "lineRussian": "Понял тебя! Дорога займет минут сорок пять с пробками. Есть сумки в багажнике?",
+    "audioPath": "assets/audio/dialogue/node_taxi_2.mp3",
+    "options": [
+      {
+        "id": "opt_taxi_bags",
+        "labelEnglish": "Just two suitcases in the trunk, thank you!",
+        "labelRussian": "Только два чемодана в багажнике, спасибо!",
+        "targetNodeId": "node_taxi_3",
+        "audioPath": "assets/audio/dialogue/opt_taxi_bags.mp3"
+      },
+      {
+        "id": "opt_taxi_carryon",
+        "labelEnglish": "Only this small backpack with me, thanks!",
+        "labelRussian": "Только этот небольшой рюкзак со мной, спасибо!",
+        "targetNodeId": "node_taxi_3",
+        "audioPath": "assets/audio/dialogue/opt_taxi_carryon.mp3"
+      }
+    ]
+  },
+  {
+    "id": "node_taxi_3",
+    "level": "A2",
+    "characterName": "Mike (Cab Driver • 🇺🇸 US)",
+    "lineEnglish": "Easy peasy! Do you prefer taking the Midtown Tunnel or crossing the bridge for a scenic view?",
+    "lineRussian": "Проще простого! Предпочитаешь через туннель Мидтауна или по мосту с красивым видом?",
+    "audioPath": "assets/audio/dialogue/node_taxi_3.mp3",
+    "options": [
+      {
+        "id": "opt_taxi_tunnel",
+        "labelEnglish": "Let's take the tunnel, I'd like to get there faster.",
+        "labelRussian": "Давайте через туннель, хочу добраться побыстрее.",
+        "targetNodeId": "node_taxi_finish",
+        "audioPath": "assets/audio/dialogue/opt_taxi_tunnel.mp3"
+      },
+      {
+        "id": "opt_taxi_bridge",
+        "labelEnglish": "The bridge sounds lovely! I'd love to see the Manhattan skyline.",
+        "labelRussian": "Мост звучит отлично! Очень хочу увидеть панораму Манхэттена.",
+        "targetNodeId": "node_taxi_finish",
+        "audioPath": "assets/audio/dialogue/opt_taxi_bridge.mp3"
+      }
+    ]
+  },
+  {
+    "id": "node_taxi_finish",
+    "level": "A2",
+    "characterName": "Mike (Cab Driver • 🇺🇸 US)",
+    "lineEnglish": "Here we are! That will be fifty-eight dollars flat rate plus toll. Welcome to New York, my friend!",
+    "lineRussian": "Приехали! С вас фиксированные пятьдесят восемь долларов плюс сбор за проезд. Добро пожаловать в Нью-Йорк, друг!",
+    "audioPath": "assets/audio/dialogue/node_taxi_finish.mp3",
+    "options": [
+      {
+        "id": "opt_taxi_restart",
+        "labelEnglish": "Here's seventy dollars, keep the change! Have a good shift!",
+        "labelRussian": "Вот семьдесят долларов, сдачи не надо! Хорошей смены!",
+        "targetNodeId": "node_taxi_1",
+        "audioPath": "assets/audio/dialogue/opt_taxi_restart.mp3"
+      }
+    ]
+  },
+  {
+    "id": "node_hotel_1",
+    "level": "B1",
+    "characterName": "Arthur (Concierge • 🇬🇧 UK)",
+    "lineEnglish": "Good afternoon, welcome to The Grand Kensington. How may I be of assistance today, sir?",
+    "lineRussian": "Добрый день, добро пожаловать в Гранд Кенсингтон. Чем я могу помочь вам сегодня, сэр?",
+    "audioPath": "assets/audio/dialogue/node_hotel_1.mp3",
+    "options": [
+      {
+        "id": "opt_hotel_checkin",
+        "labelEnglish": "Good afternoon! I have a reservation under the name Alex Smith for three nights.",
+        "labelRussian": "Добрый день! У меня бронь на имя Алекс Смит на три ночи.",
+        "targetNodeId": "node_hotel_2",
+        "audioPath": "assets/audio/dialogue/opt_hotel_checkin.mp3"
+      },
+      {
+        "id": "opt_hotel_inquire",
+        "labelEnglish": "Hello! I booked an executive suite online. Is early check-in available?",
+        "labelRussian": "Здравствуйте! Я бронировал представительский люкс онлайн. Возможен ли ранний заезд?",
+        "targetNodeId": "node_hotel_2",
+        "audioPath": "assets/audio/dialogue/opt_hotel_inquire.mp3"
+      }
+    ]
+  },
+  {
+    "id": "node_hotel_2",
+    "level": "B1",
+    "characterName": "Arthur (Concierge • 🇬🇧 UK)",
+    "lineEnglish": "Ah, yes! Mr. Smith, we have your booking right here. Your suite is ready on the fourth floor overlooking the private gardens.",
+    "lineRussian": "Ах, да! Мистер Смит, ваша бронь здесь. Ваш люкс готов на четвёртом этаже с видом на приватные сады.",
+    "audioPath": "assets/audio/dialogue/node_hotel_2.mp3",
+    "options": [
+      {
+        "id": "opt_hotel_thanks",
+        "labelEnglish": "That's wonderful news! Does the reservation include complimentary breakfast?",
+        "labelRussian": "Отличные новости! Включён ли в бронирование бесплатный завтрак?",
+        "targetNodeId": "node_hotel_3",
+        "audioPath": "assets/audio/dialogue/opt_hotel_thanks.mp3"
+      },
+      {
+        "id": "opt_hotel_floor",
+        "labelEnglish": "Brilliant, thank you so much! Which floor are the gym and dining hall on?",
+        "labelRussian": "Великолепно, спасибо большое! На каком этаже спортзал и ресторан?",
+        "targetNodeId": "node_hotel_3",
+        "audioPath": "assets/audio/dialogue/opt_hotel_floor.mp3"
+      }
+    ]
+  },
+  {
+    "id": "node_hotel_3",
+    "level": "B1",
+    "characterName": "Arthur (Concierge • 🇬🇧 UK)",
+    "lineEnglish": "Breakfast is served in the main hall from seven until ten-thirty. Here are your keycards for suite four-twelve.",
+    "lineRussian": "Завтрак подается в главном зале с семи до половины одиннадцатого. Вот ваши ключ-карты от люкса 412.",
+    "audioPath": "assets/audio/dialogue/node_hotel_3.mp3",
+    "options": [
+      {
+        "id": "opt_hotel_wifi",
+        "labelEnglish": "Perfect! Could you please let me know the Wi-Fi password and checkout time?",
+        "labelRussian": "Прекрасно! Подскажите, пожалуйста, пароль от Wi-Fi и время выезда?",
+        "targetNodeId": "node_hotel_finish",
+        "audioPath": "assets/audio/dialogue/opt_hotel_wifi.mp3"
+      },
+      {
+        "id": "opt_hotel_luggage",
+        "labelEnglish": "Splendid! Could the concierge assist with bringing my luggage upstairs?",
+        "labelRussian": "Замечательно! Поможет ли консьерж поднять мой багаж наверх?",
+        "targetNodeId": "node_hotel_finish",
+        "audioPath": "assets/audio/dialogue/opt_hotel_luggage.mp3"
+      }
+    ]
+  },
+  {
+    "id": "node_hotel_finish",
+    "level": "B1",
+    "characterName": "Arthur (Concierge • 🇬🇧 UK)",
+    "lineEnglish": "Certainly! The porter will escort you momentarily. Checkout is at noon. Have a splendid stay in London!",
+    "lineRussian": "Разумеется! Портье сейчас вас проводит. Выезд в полдень. Прекрасного пребывания в Лондоне!",
+    "audioPath": "assets/audio/dialogue/node_hotel_finish.mp3",
+    "options": [
+      {
+        "id": "opt_hotel_restart",
+        "labelEnglish": "Thank you for the warm hospitality, Arthur! Have a pleasant evening.",
+        "labelRussian": "Спасибо за теплое гостеприимство, Артур! Приятного вечера.",
+        "targetNodeId": "node_hotel_1",
+        "audioPath": "assets/audio/dialogue/opt_hotel_restart.mp3"
+      }
+    ]
+  }
+]

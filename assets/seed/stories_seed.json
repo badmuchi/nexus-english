@@ -1,0 +1,140 @@
+[
+  {
+    "id": "story_first_coffee",
+    "title": "A Morning Coffee in London",
+    "level": "A1",
+    "readingTimeMinutes": 3,
+    "description": "Простая утренняя история о заказе кофе и знакомстве с бариста.",
+    "paragraphs": [
+      {
+        "en": "Max wakes up at seven o'clock. The morning sky in London is grey, but the air is fresh.",
+        "ru": "Макс просыпается в семь часов. Утреннее небо в Лондоне серое, но воздух свежий."
+      },
+      {
+        "en": "He walks down Baker Street to a small cozy coffee shop called 'The Daily Bean'.",
+        "ru": "Он идет по Бейкер-стрит к маленькой уютной кофейне под названием «The Daily Bean»."
+      },
+      {
+        "en": "'Good morning! What can I get for you today?' asks the friendly barista named Sarah.",
+        "ru": "«Доброе утро! Что я могу предложить вам сегодня?» — спрашивает приветливая бариста по имени Сара."
+      },
+      {
+        "en": "'I would like a large cappuccino with oat milk, please,' Max replies with a smile.",
+        "ru": "«Я бы хотел большой капучино на овсяном молоке, пожалуйста», — с улыбкой отвечает Макс."
+      },
+      {
+        "en": "Holding the warm cup in his hands, Max feels ready for a brand new day in the big city.",
+        "ru": "Держа в руках теплый стаканчик, Макс чувствует готовность к новому дню в большом городе."
+      }
+    ],
+    "questions": [
+      {
+        "question": "What is the name of the coffee shop?",
+        "options": ["Baker's Cup", "The Daily Bean", "London Morning", "Oat & Bean"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What kind of milk did Max choose?",
+        "options": ["Almond milk", "Cow milk", "Oat milk", "Soy milk"],
+        "answerIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "story_lost_passport",
+    "title": "The Mysterious Train Ticket",
+    "level": "A2",
+    "readingTimeMinutes": 4,
+    "description": "Детективная зарисовка на вокзале Эдинбурга.",
+    "paragraphs": [
+      {
+        "en": "Elena sat on an old wooden bench at Edinburgh Waverley station, waiting for the train to Glasgow.",
+        "ru": "Елена сидела на старой деревянной скамейке на вокзале Эдинбург Уэверли, ожидая поезд в Глазго."
+      },
+      {
+        "en": "Under her bench, she noticed a shiny silver envelope. Inside, there was a first-class ticket to the Scottish Highlands.",
+        "ru": "Под скамейкой она заметила блестящий серебристый конверт. Внутри был билет первого класса в Шотландское высокогорье."
+      },
+      {
+        "en": "There was also a short handwritten note: 'Adventure begins where comfort ends. It is yours if you dare.'",
+        "ru": "Там также была короткая записка от руки: «Приключение начинается там, где заканчивается комфорт. Он твой, если осмелишься»."
+      },
+      {
+        "en": "Elena checked her watch. The mountain express departed in precisely ten minutes. Her heart beat fast.",
+        "ru": "Елена посмотрела на часы. Горный экспресс отправлялся ровно через десять минут. Ее сердце забилось чаще."
+      }
+    ],
+    "questions": [
+      {
+        "question": "Where was Elena waiting for her train?",
+        "options": ["King's Cross", "Edinburgh Waverley", "Glasgow Central", "Baker Street"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What destination was on the ticket?",
+        "options": ["London", "Scottish Highlands", "Dublin", "Paris"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "story_remote_developer",
+    "title": "The First Silicon Valley Sprint",
+    "level": "B1",
+    "readingTimeMinutes": 5,
+    "description": "История инженера, присоединившегося к международной IT-команде.",
+    "paragraphs": [
+      {
+        "en": "Joining a fast-paced international startup was both exhilarating and intimidating for David.",
+        "ru": "Присоединение к быстрорастущему международному стартапу было для Дэвида одновременно волнующим и пугающим."
+      },
+      {
+        "en": "During his first daily standup on Zoom, colleagues spoke rapidly with varying accents from San Francisco, Berlin, and Tokyo.",
+        "ru": "Во время первого утреннего стендапа в Zoom коллеги быстро говорили с самыми разными акцентами из Сан-Франциско, Берлина и Токио."
+      },
+      {
+        "en": "Instead of feeling overwhelmed, David embraced active listening and wasn't afraid to ask clarifying questions.",
+        "ru": "Вместо того чтобы растеряться, Дэвид применил активное слушание и не стеснялся задавать уточняющие вопросы."
+      },
+      {
+        "en": "By Friday, he had deployed his first microservice to production, earning high praise from the lead architect.",
+        "ru": "К пятнице он уже задеплоил свой первый микросервис в прод, заслужив высокую похвалу от ведущего архитектора."
+      }
+    ],
+    "questions": [
+      {
+        "question": "What helped David overcome communication challenges?",
+        "options": ["Remaining silent", "Active listening & clarifying questions", "Using a translation app only", "Skipping meetings"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "story_b2_ai_future",
+    "title": "The Synthesis of Human Creativity and AI",
+    "level": "B2",
+    "readingTimeMinutes": 6,
+    "description": "Глубокая статья-рассуждение о роли искусственного интеллекта в дизайне и разработке.",
+    "paragraphs": [
+      {
+        "en": "Throughout history, paradigm shifts in technology have consistently provoked apprehension followed by unprecedented creative flourish.",
+        "ru": "На протяжении истории смены технологических парадигм неизменно вызывали опасения, сменявшиеся беспрецедентным расцветом творчества."
+      },
+      {
+        "en": "Autonomous coding agents and generative algorithms are not mere substitutes for human engineers; they serve as intellectual amplifiers.",
+        "ru": "Автономные агенты программирования и генеративные алгоритмы — это не просто замена человеку; они служат интеллектуальными усилителями."
+      },
+      {
+        "en": "Engineers who cultivate deep domain insight alongside mastery of agentic tools will inevitably lead the next technological renaissance.",
+        "ru": "Инженеры, развивающие глубокое понимание предметной области наряду с мастерством владения агентскими инструментами, неизбежно возглавят следующий технологический ренессанс."
+      }
+    ],
+    "questions": [
+      {
+        "question": "According to the author, what is the role of AI agents?",
+        "options": ["To replace humans entirely", "To act as intellectual amplifiers", "To eliminate coding languages", "To slow down engineering"],
+        "answerIndex": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "dict_apple",
+    "word": "apple",
+    "transcriptionIpa": "/ˈæp.əl/",
+    "russianTranslation": "яблоко",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "exampleEnglish": "She ate a juicy red apple for breakfast.",
+    "exampleRussian": "Она съела сочное красное яблоко на завтрак.",
+    "audioUrl": "assets/audio/dictionary/dict_apple.mp3"
+  },
+  {
+    "id": "dict_friend",
+    "word": "friend",
+    "transcriptionIpa": "/frend/",
+    "russianTranslation": "друг, подруга",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "exampleEnglish": "A good friend always listens.",
+    "exampleRussian": "Хороший друг всегда выслушает.",
+    "audioUrl": "assets/audio/dictionary/dict_friend.mp3"
+  },
+  {
+    "id": "dict_happy",
+    "word": "happy",
+    "transcriptionIpa": "/ˈhæp.i/",
+    "russianTranslation": "счастливый, довольный",
+    "partOfSpeech": "adjective",
+    "level": "A1",
+    "exampleEnglish": "They were happy to meet again.",
+    "exampleRussian": "Они были счастливы снова встретиться.",
+    "audioUrl": "assets/audio/dictionary/dict_happy.mp3"
+  },
+  {
+    "id": "dict_journey",
+    "word": "journey",
+    "transcriptionIpa": "/ˈdʒɜː.ni/",
+    "russianTranslation": "путешествие, поездка",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "exampleEnglish": "The journey took nearly five hours by train.",
+    "exampleRussian": "Поездка на поезде заняла почти пять часов.",
+    "audioUrl": "assets/audio/dictionary/dict_journey.mp3"
+  },
+  {
+    "id": "dict_improve",
+    "word": "improve",
+    "transcriptionIpa": "/ɪmˈpruːv/",
+    "russianTranslation": "улучшать, совершенствовать",
+    "partOfSpeech": "verb",
+    "level": "A2",
+    "exampleEnglish": "Daily practice will improve your speaking skills.",
+    "exampleRussian": "Ежедневная практика улучшит ваши навыки говорения.",
+    "audioUrl": "assets/audio/dictionary/dict_improve.mp3"
+  },
+  {
+    "id": "dict_convenient",
+    "word": "convenient",
+    "transcriptionIpa": "/kənˈviː.ni.ənt/",
+    "russianTranslation": "удобный, подходящий",
+    "partOfSpeech": "adjective",
+    "level": "A2",
+    "exampleEnglish": "Online shopping is very convenient.",
+    "exampleRussian": "Покупки в интернете — это очень удобно.",
+    "audioUrl": "assets/audio/dictionary/dict_convenient.mp3"
+  },
+  {
+    "id": "dict_opportunity",
+    "word": "opportunity",
+    "transcriptionIpa": "/ˌɒp.əˈtʃuː.nə.ti/",
+    "russianTranslation": "возможность, удобный случай",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "exampleEnglish": "Don't miss the opportunity to study abroad.",
+    "exampleRussian": "Не упустите возможность учиться за границей.",
+    "audioUrl": "assets/audio/dictionary/dict_opportunity.mp3"
+  },
+  {
+    "id": "dict_persuade",
+    "word": "persuade",
+    "transcriptionIpa": "/pəˈsweɪd/",
+    "russianTranslation": "убеждать, склонять",
+    "partOfSpeech": "verb",
+    "level": "B1",
+    "exampleEnglish": "He persuaded the board to fund the new startup.",
+    "exampleRussian": "Он убедил совет директоров профинансировать новый стартап.",
+    "audioUrl": "assets/audio/dictionary/dict_persuade.mp3"
+  },
+  {
+    "id": "dict_reliable",
+    "word": "reliable",
+    "transcriptionIpa": "/rɪˈlaɪ.ə.bəl/",
+    "russianTranslation": "надежный, верный",
+    "partOfSpeech": "adjective",
+    "level": "B1",
+    "exampleEnglish": "We need a reliable database system for our app.",
+    "exampleRussian": "Нам нужна надежная система баз данных для нашего приложения.",
+    "audioUrl": "assets/audio/dictionary/dict_reliable.mp3"
+  },
+  {
+    "id": "dict_comprehend",
+    "word": "comprehend",
+    "transcriptionIpa": "/ˌkɒm.prɪˈhend/",
+    "russianTranslation": "постигать, глубоко понимать",
+    "partOfSpeech": "verb",
+    "level": "B2",
+    "exampleEnglish": "It was difficult to comprehend the full scale of the change.",
+    "exampleRussian": "Было трудно осмыслить весь масштаб изменений.",
+    "audioUrl": "assets/audio/dictionary/dict_comprehend.mp3"
+  },
+  {
+    "id": "dict_inevitable",
+    "word": "inevitable",
+    "transcriptionIpa": "/ɪnˈev.ɪ.tə.bəl/",
+    "russianTranslation": "неизбежный, неотвратимый",
+    "partOfSpeech": "adjective",
+    "level": "B2",
+    "exampleEnglish": "Technological progress is inevitable and exciting.",
+    "exampleRussian": "Технический прогресс неизбежен и увлекателен.",
+    "audioUrl": "assets/audio/dictionary/dict_inevitable.mp3"
+  },
+  {
+    "id": "dict_sophisticated",
+    "word": "sophisticated",
+    "transcriptionIpa": "/səˈfɪs.tɪ.keɪ.tɪd/",
+    "russianTranslation": "утонченный, сложный, высокотехнологичный",
+    "partOfSpeech": "adjective",
+    "level": "B2",
+    "exampleEnglish": "The algorithm uses a sophisticated machine learning model.",
+    "exampleRussian": "Алгоритм использует сложную модель машинного обучения.",
+    "audioUrl": "assets/audio/dictionary/dict_sophisticated.mp3"
+  }
+]

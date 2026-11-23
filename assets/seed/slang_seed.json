@@ -1,0 +1,242 @@
+[
+  {
+    "id": "slang_touch_base",
+    "expression": "Touch base",
+    "literalMeaning": "Коснуться базы",
+    "actualMeaningRu": "Кратко связаться, переговорить, сверить часы",
+    "category": "work",
+    "level": "B1",
+    "originNote": "Пришло из американского бейсбола. В деловой переписке означает быстро обсудить статус задачи.",
+    "audioUrl": "assets/audio/slang/slang_touch_base.mp3",
+    "examples": [
+      {
+        "en": "Let's touch base on Monday morning before the client sprint review.",
+        "ru": "Давай созвонимся и сверим часы в понедельник утром перед спринт-ревью с клиентом."
+      }
+    ]
+  },
+  {
+    "id": "slang_call_it_a_day",
+    "expression": "Call it a day",
+    "literalMeaning": "Назвать это днем",
+    "actualMeaningRu": "Закончить работу на сегодня, закруглиться",
+    "category": "work",
+    "level": "A2",
+    "originNote": "Использовалось рабочими ещё в XIX веке, когда дневная смена подходила к концу.",
+    "audioUrl": "assets/audio/slang/slang_call_it_a_day.mp3",
+    "examples": [
+      {
+        "en": "We've fixed all critical bugs, let's call it a day and get some rest.",
+        "ru": "Мы пофиксили все критические баги, давайте закругляться на сегодня и отдохнем."
+      }
+    ]
+  },
+  {
+    "id": "slang_cut_corners",
+    "expression": "Cut corners",
+    "literalMeaning": "Срезать углы",
+    "actualMeaningRu": "Халтурить, экономить в ущерб качеству или безопасности",
+    "category": "work",
+    "level": "B1",
+    "originNote": "От кучеров конных экипажей, которые срезали повороты, рискуя перевернуться.",
+    "audioUrl": "assets/audio/slang/slang_cut_corners.mp3",
+    "examples": [
+      {
+        "en": "Don't cut corners on unit tests, or you will regret it in production.",
+        "ru": "Не экономь на юнит-тестах в ущерб качеству, иначе пожалеешь на проде."
+      }
+    ]
+  },
+  {
+    "id": "slang_on_the_same_page",
+    "expression": "On the same page",
+    "literalMeaning": "На одной странице",
+    "actualMeaningRu": "Сходиться во мнениях, понимать друг друга без разногласий",
+    "category": "work",
+    "level": "B1",
+    "originNote": "Метафора церковных хоров или оркестров, где все должны смотреть в одну и ту же страницу нот.",
+    "audioUrl": "assets/audio/slang/slang_on_the_same_page.mp3",
+    "examples": [
+      {
+        "en": "Just to make sure we're on the same page, the release is next Thursday, right?",
+        "ru": "Просто чтобы убедиться, что мы одинаково всё понимаем: релиз в следующий четверг, верно?"
+      }
+    ]
+  },
+  {
+    "id": "slang_ballpark_figure",
+    "expression": "Ballpark figure",
+    "literalMeaning": "Число с бейсбольного стадиона",
+    "actualMeaningRu": "Приблизительная оценка, порядок цифр",
+    "category": "work",
+    "level": "B2",
+    "originNote": "Бейсбольный термин: если мяч приземлился в пределах стадиона, это уже приемлемая точность.",
+    "audioUrl": "assets/audio/slang/slang_ballpark_figure.mp3",
+    "examples": [
+      {
+        "en": "Can you give me a ballpark figure for the backend migration timeline?",
+        "ru": "Можешь назвать хотя бы примерный порядок сроков для миграции бэкенда?"
+      }
+    ]
+  },
+  {
+    "id": "slang_no_brainer",
+    "expression": "A no-brainer",
+    "literalMeaning": "Без включения мозга",
+    "actualMeaningRu": "Очевидное, легкое решение, над которым даже не надо думать",
+    "category": "casual",
+    "level": "A2",
+    "originNote": "Решение настолько очевидно выгодное, что мозг для него не требуется.",
+    "audioUrl": "assets/audio/slang/slang_no_brainer.mp3",
+    "examples": [
+      {
+        "en": "Switching to Flutter for cross-platform app development was a no-brainer for us.",
+        "ru": "Переход на Flutter для кроссплатформенной разработки был для нас совершенно очевидным выбором."
+      }
+    ]
+  },
+  {
+    "id": "slang_bite_the_bullet",
+    "expression": "Bite the bullet",
+    "literalMeaning": "Прикусить пулю",
+    "actualMeaningRu": "Стиснуть зубы, решиться на неприятное, но необходимое дело",
+    "category": "social",
+    "level": "B2",
+    "originNote": "В полевой хирургии до изобретения наркоза раненым солдатам давали зажать свинцовую пулю в зубах.",
+    "audioUrl": "assets/audio/slang/slang_bite_the_bullet.mp3",
+    "examples": [
+      {
+        "en": "I hate refactoring legacy code, but I just have to bite the bullet and do it.",
+        "ru": "Терпеть не могу рефакторить старый легаси, но придется стиснуть зубы и сделать это."
+      }
+    ]
+  },
+  {
+    "id": "slang_piece_of_cake",
+    "expression": "A piece of cake",
+    "literalMeaning": "Кусок торта",
+    "actualMeaningRu": "Проще простого, пара пустяков, раз плюнуть",
+    "category": "social",
+    "level": "A1",
+    "originNote": "Есть вкусный торт — легкое и приятное занятие, отсюда и переносный смысл.",
+    "audioUrl": "assets/audio/slang/slang_piece_of_cake.mp3",
+    "examples": [
+      {
+        "en": "Don't worry about the English listening quiz, it's a piece of cake!",
+        "ru": "Не переживай насчет квиза по аудированию, он проще простого!"
+      }
+    ]
+  },
+  {
+    "id": "slang_under_the_weather",
+    "expression": "Under the weather",
+    "literalMeaning": "Под погодой",
+    "actualMeaningRu": "Нездоровится, приболел, не в форме",
+    "category": "social",
+    "level": "A2",
+    "originNote": "Моряки во время шторма спускались в трюм под палубу, чтобы переждать непогоду.",
+    "audioUrl": "assets/audio/slang/slang_under_the_weather.mp3",
+    "examples": [
+      {
+        "en": "I'm feeling a bit under the weather today, so I'll be working remotely from home.",
+        "ru": "Я сегодня немного приболел, поэтому поработаю удаленно из дома."
+      }
+    ]
+  },
+  {
+    "id": "slang_spill_the_beans",
+    "expression": "Spill the beans",
+    "literalMeaning": "Рассыпать бобы",
+    "actualMeaningRu": "Проболтаться, выдать тайну или сюрприз раньше времени",
+    "category": "casual",
+    "level": "B1",
+    "originNote": "В Древней Греции голосовали белыми и черными бобами в кувшине; если кувшин опрокидывали, результат голосования раскрывался досрочно.",
+    "audioUrl": "assets/audio/slang/slang_spill_the_beans.mp3",
+    "examples": [
+      {
+        "en": "We were planning a surprise team party, but Mark accidentally spilled the beans.",
+        "ru": "Мы планировали вечеринку-сюрприз для команды, но Марк случайно проболтался."
+      }
+    ]
+  },
+  {
+    "id": "slang_break_the_ice",
+    "expression": "Break the ice",
+    "literalMeaning": "Разбить лед",
+    "actualMeaningRu": "Разрядить обстановку, начать разговор при знакомстве",
+    "category": "social",
+    "level": "A2",
+    "originNote": "Специальные суда-ледоколы пробивали путь торговым кораблям в замерзшие гавани.",
+    "audioUrl": "assets/audio/slang/slang_break_the_ice.mp3",
+    "examples": [
+      {
+        "en": "He told a funny joke about Flutter architecture to break the ice during the interview.",
+        "ru": "Он рассказал забавную шутку про архитектуру во Flutter, чтобы разрядить обстановку на собеседовании."
+      }
+    ]
+  },
+  {
+    "id": "slang_once_in_a_blue_moon",
+    "expression": "Once in a blue moon",
+    "literalMeaning": "Однажды при голубой луне",
+    "actualMeaningRu": "Очень редко, в кои-то веки, раз в сто лет",
+    "category": "social",
+    "level": "B1",
+    "originNote": "Голубая луна — редкое астрономическое явление (второе полнолуние за один календарный месяц).",
+    "audioUrl": "assets/audio/slang/slang_once_in_a_blue_moon.mp3",
+    "examples": [
+      {
+        "en": "I only eat fast food once in a blue moon.",
+        "ru": "Я ем фастфуд разве что раз в сто лет."
+      }
+    ]
+  },
+  {
+    "id": "slang_play_it_by_ear",
+    "expression": "Play it by ear",
+    "literalMeaning": "Играть на слух",
+    "actualMeaningRu": "Действовать по обстоятельствам, импровизировать без четкого плана",
+    "category": "casual",
+    "level": "B1",
+    "originNote": "Музыкальный термин — играть мелодию по слуху, не заглядывая в партитуру.",
+    "audioUrl": "assets/audio/slang/slang_play_it_by_ear.mp3",
+    "examples": [
+      {
+        "en": "We don't know when the flight lands, so let's just play it by ear.",
+        "ru": "Мы пока не знаем, когда приземлится самолет, так что будем действовать по обстоятельствам."
+      }
+    ]
+  },
+  {
+    "id": "slang_couch_potato",
+    "expression": "Couch potato",
+    "literalMeaning": "Диванный картофель",
+    "actualMeaningRu": "Лежебока, домосед, любитель залипать в экран целыми днями",
+    "category": "casual",
+    "level": "A2",
+    "originNote": "Американский сленг конца 70-х: человек сидит на диване так же пассивно, как клубень в земле.",
+    "audioUrl": "assets/audio/slang/slang_couch_potato.mp3",
+    "examples": [
+      {
+        "en": "Stop being a couch potato on weekends — let's go for a run in the park!",
+        "ru": "Хватит валяться тюленем на выходных — погнали на пробежку в парк!"
+      }
+    ]
+  },
+  {
+    "id": "slang_ring_a_bell",
+    "expression": "Ring a bell",
+    "literalMeaning": "Звенеть в колокольчик",
+    "actualMeaningRu": "Казаться знакомым, смутно припоминаться",
+    "category": "casual",
+    "level": "B1",
+    "originNote": "Звук колокольчика вызывает ассоциацию или вспышку памяти.",
+    "audioUrl": "assets/audio/slang/slang_ring_a_bell.mp3",
+    "examples": [
+      {
+        "en": "Does the name Central Brew ring a bell? That's where we had coffee yesterday.",
+        "ru": "Название Central Brew тебе ни о чем не говорит? Мы пили там кофе вчера."
+      }
+    ]
+  }
+]

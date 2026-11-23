@@ -1,0 +1,183 @@
+{
+  "phonemes": [
+    {
+      "symbol": "/iː/",
+      "name": "Long E",
+      "type": "long_vowel",
+      "sampleWord": "sheep",
+      "sampleIpa": "/ʃiːp/",
+      "description": "Долгий звук «и», губы растянуты в легкой улыбке."
+    },
+    {
+      "symbol": "/ɪ/",
+      "name": "Short I",
+      "type": "short_vowel",
+      "sampleWord": "ship",
+      "sampleIpa": "/ʃɪp/",
+      "description": "Краткий ненапряженный звук между «и» и «ы»."
+    },
+    {
+      "symbol": "/ʊ/",
+      "name": "Short U",
+      "type": "short_vowel",
+      "sampleWord": "book",
+      "sampleIpa": "/bʊk/",
+      "description": "Краткий звук «у» без сильного округления губ."
+    },
+    {
+      "symbol": "/uː/",
+      "name": "Long U",
+      "type": "long_vowel",
+      "sampleWord": "moon",
+      "sampleIpa": "/muːn/",
+      "description": "Глубокий долгий звук «у»."
+    },
+    {
+      "symbol": "/e/",
+      "name": "Short E",
+      "type": "short_vowel",
+      "sampleWord": "bed",
+      "sampleIpa": "/bed/",
+      "description": "Краткий открытый звук «э»."
+    },
+    {
+      "symbol": "/ə/",
+      "name": "Schwa",
+      "type": "short_vowel",
+      "sampleWord": "about",
+      "sampleIpa": "/əˈbaʊt/",
+      "description": "Самый частый безударный нейтральный звук в английском (шва)."
+    },
+    {
+      "symbol": "/ɜː/",
+      "name": "Long ER",
+      "type": "long_vowel",
+      "sampleWord": "bird",
+      "sampleIpa": "/bɜːd/",
+      "description": "Долгий звук, похожий на нечто среднее между «о» и «ё»."
+    },
+    {
+      "symbol": "/ɔː/",
+      "name": "Long OR",
+      "type": "long_vowel",
+      "sampleWord": "door",
+      "sampleIpa": "/dɔː/",
+      "description": "Долгий глубокий звук «о»."
+    },
+    {
+      "symbol": "/æ/",
+      "name": "Broad A",
+      "type": "short_vowel",
+      "sampleWord": "cat",
+      "sampleIpa": "/kæt/",
+      "description": "Широкий открытый звук между «э» и «а», челюсть опущена."
+    },
+    {
+      "symbol": "/ʌ/",
+      "name": "Strut U",
+      "type": "short_vowel",
+      "sampleWord": "cup",
+      "sampleIpa": "/kʌp/",
+      "description": "Краткий чистый звук «а» в ударном слоге."
+    },
+    {
+      "symbol": "/ɑː/",
+      "name": "Long A",
+      "type": "long_vowel",
+      "sampleWord": "car",
+      "sampleIpa": "/kɑː/",
+      "description": "Глубокий долгий звук «а»."
+    },
+    {
+      "symbol": "/eɪ/",
+      "name": "Face Diphthong",
+      "type": "diphthong",
+      "sampleWord": "day",
+      "sampleIpa": "/deɪ/",
+      "description": "Дифтонг «эй»."
+    },
+    {
+      "symbol": "/aɪ/",
+      "name": "Price Diphthong",
+      "type": "diphthong",
+      "sampleWord": "my",
+      "sampleIpa": "/maɪ/",
+      "description": "Дифтонг «ай»."
+    },
+    {
+      "symbol": "/əʊ/",
+      "name": "Goat Diphthong",
+      "type": "diphthong",
+      "sampleWord": "go",
+      "sampleIpa": "/ɡəʊ/",
+      "description": "Дифтонг «оу»."
+    },
+    {
+      "symbol": "/aʊ/",
+      "name": "Mouth Diphthong",
+      "type": "diphthong",
+      "sampleWord": "now",
+      "sampleIpa": "/naʊ/",
+      "description": "Дифтонг «ау»."
+    },
+    {
+      "symbol": "/θ/",
+      "name": "Unvoiced TH",
+      "type": "consonant_unvoiced",
+      "sampleWord": "think",
+      "sampleIpa": "/θɪŋk/",
+      "description": "Глухой межзубный звук: кончик языка между резцами."
+    },
+    {
+      "symbol": "/ð/",
+      "name": "Voiced TH",
+      "type": "consonant_voiced",
+      "sampleWord": "this",
+      "sampleIpa": "/ðɪs/",
+      "description": "Звонкий межзубный звук с вибрацией голосовых связок."
+    },
+    {
+      "symbol": "/ŋ/",
+      "name": "Velar Nasal",
+      "type": "consonant_voiced",
+      "sampleWord": "sing",
+      "sampleIpa": "/sɪŋ/",
+      "description": "Носовой звук задней спинки языка (без произнесения звука «г» в конце)."
+    },
+    {
+      "symbol": "/w/",
+      "name": "Labial Glide",
+      "type": "consonant_voiced",
+      "sampleWord": "water",
+      "sampleIpa": "/ˈwɔː.tər/",
+      "description": "Губы округляются трубочкой и мгновенно раскрываются."
+    }
+  ],
+  "silentLetters": [
+    {
+      "letter": "K",
+      "rule": "Не произносится перед буквой N в начале слова.",
+      "examples": ["knife /naɪf/", "knee /niː/", "know /nəʊ/", "knight /naɪt/"]
+    },
+    {
+      "letter": "B",
+      "rule": "Не произносится в конце слова после M или перед T.",
+      "examples": ["climb /klaɪm/", "bomb /bɒm/", "doubt /daʊt/", "subtle /ˈsʌt.əl/"]
+    },
+    {
+      "letter": "W",
+      "rule": "Не произносится перед буквой R в начале слова.",
+      "examples": ["write /raɪt/", "wrong /rɒŋ/", "wrist /rɪst/"]
+    },
+    {
+      "letter": "L",
+      "rule": "Часто не произносится перед D, F, M, K.",
+      "examples": ["half /hɑːf/", "talk /tɔːk/", "walk /wɔːk/", "calm /kɑːm/"]
+    },
+    {
+      "letter": "T",
+      "rule": "Часто выпадает в сочетаниях -sten и -stle.",
+      "examples": ["listen /ˈlɪs.ən/", "castle /ˈkɑːs.əl/", "fasten /ˈfɑːs.ən/"]
+    }
+  ]
+}

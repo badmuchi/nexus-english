@@ -1,0 +1,123 @@
+[
+  {
+    "id": "pv_wake_up",
+    "verb": "wake up",
+    "meaningRu": "просыпаться, будить кого-то",
+    "level": "A1",
+    "formality": "Neutral",
+    "examples": [
+      {
+        "en": "I usually wake up at 7 AM on weekdays.",
+        "ru": "По будням я обычно просыпаюсь в 7 утра."
+      }
+    ]
+  },
+  {
+    "id": "pv_give_up",
+    "verb": "give up",
+    "meaningRu": "сдаваться, бросать (привычку/дело)",
+    "level": "A2",
+    "formality": "Neutral",
+    "examples": [
+      {
+        "en": "Never give up on your dreams.",
+        "ru": "Никогда не сдавайся и не бросай свои мечты."
+      },
+      {
+        "en": "He decided to give up smoking.",
+        "ru": "Он решил бросить курить."
+      }
+    ]
+  },
+  {
+    "id": "pv_look_for",
+    "verb": "look for",
+    "meaningRu": "искать (предмет, работу, решение)",
+    "level": "A2",
+    "formality": "Neutral",
+    "examples": [
+      {
+        "en": "I am looking for my glasses. Have you seen them?",
+        "ru": "Я ищу свои очки. Ты их не видел?"
+      }
+    ]
+  },
+  {
+    "id": "pv_figure_out",
+    "verb": "figure out",
+    "meaningRu": "разобраться, понять, сообразить",
+    "level": "B1",
+    "formality": "Conversational",
+    "examples": [
+      {
+        "en": "We need to figure out why the test is failing.",
+        "ru": "Нам нужно разобраться, почему тест падает."
+      }
+    ]
+  },
+  {
+    "id": "pv_run_into",
+    "verb": "run into",
+    "meaningRu": "случайно встретить кого-то, натолкнуться",
+    "level": "B1",
+    "formality": "Informal",
+    "examples": [
+      {
+        "en": "I ran into an old college friend at the coffee shop.",
+        "ru": "Я случайно встретил старого университетского друга в кофейне."
+      }
+    ]
+  },
+  {
+    "id": "pv_break_a_leg",
+    "verb": "break a leg",
+    "meaningRu": "Ни пуха ни пера! Удачи! (театральная идиома)",
+    "level": "B1",
+    "formality": "Idiom",
+    "examples": [
+      {
+        "en": "You have a big presentation today. Break a leg!",
+        "ru": "У тебя сегодня важная презентация. Ни пуха ни пера!"
+      }
+    ]
+  },
+  {
+    "id": "pv_call_it_a_day",
+    "verb": "call it a day",
+    "meaningRu": "закругляться, закончить работу на сегодня",
+    "level": "B1",
+    "formality": "Business / Casual",
+    "examples": [
+      {
+        "en": "We've made great progress. Let's call it a day.",
+        "ru": "Мы отлично продвинулись. Давайте закругляться на сегодня."
+      }
+    ]
+  },
+  {
+    "id": "pv_come_up_with",
+    "verb": "come up with",
+    "meaningRu": "придумать, разработать (идею, план, решение)",
+    "level": "B2",
+    "formality": "Business / Neutral",
+    "examples": [
+      {
+        "en": "The team came up with an ingenious architectural solution.",
+        "ru": "Команда придумала остроумное архитектурное решение."
+      }
+    ]
+  },
+  {
+    "id": "pv_bite_the_bullet",
+    "verb": "bite the bullet",
+    "meaningRu": "стиснуть зубы, решиться на неизбежное неприятное действие",
+    "level": "B2",
+    "formality": "Idiom",
+    "examples": [
+      {
+        "en": "We have to bite the bullet and rewrite this legacy module.",
+        "ru": "Придется стиснуть зубы и переписать этот устаревший модуль."
+      }
+    ]
+  }
+]

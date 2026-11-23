@@ -1,0 +1,122 @@
+[
+  {
+    "id": "topic_present_simple_cont",
+    "title": "Present Simple vs Present Continuous",
+    "level": "A1",
+    "category": "Tenses",
+    "explanation": "### Present Simple vs Present Continuous\n\n* **Present Simple** выражает регулярные действия, факты, привычки и расписания.\n  * Формула: `V1` / `V1 + s/es` (he/she/it).\n  * Маркеры: *always, usually, every day, often, sometimes*.\n  * Пример: *I drink coffee every morning.* (Я пью кофе каждое утро).\n\n* **Present Continuous** выражает действие, происходящее прямо сейчас (в момент речи) или временную ситуацию.\n  * Формула: `am/is/are + V-ing`.\n  * Маркеры: *now, right now, at the moment, currently*.\n  * Пример: *I am drinking coffee right now.* (Я пью кофе прямо сейчас).\n\n> **Важно:** Глаголы состояния (*like, love, know, understand, believe*) обычно не используются в Continuous!",
+    "exercises": [
+      {
+        "question": "Listen! Somebody ... the piano.",
+        "options": ["is playing", "plays", "play", "are playing"],
+        "answerIndex": 0,
+        "explanation": "Слово 'Listen!' указывает на действие прямо в момент речи -> Present Continuous."
+      },
+      {
+        "question": "My brother usually ... to work by subway.",
+        "options": ["go", "goes", "is going", "went"],
+        "answerIndex": 1,
+        "explanation": "'Usually' + подлежащее 'My brother' (he) требует Present Simple с окончанием -es -> goes."
+      }
+    ]
+  },
+  {
+    "id": "topic_past_simple",
+    "title": "Past Simple & Regular/Irregular Verbs",
+    "level": "A2",
+    "category": "Tenses",
+    "explanation": "### Past Simple (Прошедшее простое)\n\nИспользуется для завершенных действий в прошлом с указанием времени.\n\n* **Правильные глаголы:** добавляем `-ed` (*work -> worked, play -> played*).\n* **Неправильные глаголы:** используем вторую форму (V2) (*go -> went, see -> saw*).\n* **Отрицание:** `did not (didn't) + V1` (*I didn't see him*).\n* **Вопрос:** `Did + подлежащее + V1?` (*Did you go there?*).\n* Маркеры: *yesterday, ago (2 days ago), last year, in 2020*.",
+    "exercises": [
+      {
+        "question": "We ... a fantastic movie last night.",
+        "options": ["watch", "watched", "were watching", "watches"],
+        "answerIndex": 1,
+        "explanation": "'Last night' указывает на конкретное время в прошлом -> Past Simple (watched)."
+      },
+      {
+        "question": "Where ... you buy that vintage jacket?",
+        "options": ["did", "do", "were", "have"],
+        "answerIndex": 0,
+        "explanation": "В вопросах в Past Simple вспомогательный глагол — 'did'."
+      }
+    ]
+  },
+  {
+    "id": "topic_present_perfect",
+    "title": "Present Perfect vs Past Simple",
+    "level": "B1",
+    "category": "Tenses",
+    "explanation": "### Present Perfect vs Past Simple\n\n* **Present Perfect** (`have/has + V3`):\n  * Фокус на **результате в настоящем** или **жизненном опыте** без точной даты.\n  * Маркеры: *already, yet, just, ever, never, since, for, recently*.\n  * Пример: *I have lost my key! (I can't open the door now).* \n\n* **Past Simple** (`V2`):\n  * Действие полностью завершено в прошлом, известно **когда именно**.\n  * Маркеры: *yesterday, in 2015, when I was a child*.\n  * Пример: *I lost my key yesterday (факт в прошлом).* ",
+    "exercises": [
+      {
+        "question": "I ... to Japan twice in my life.",
+        "options": ["was", "have been", "am", "had been"],
+        "answerIndex": 1,
+        "explanation": "Жизненный опыт к настоящему моменту -> Present Perfect (have been)."
+      },
+      {
+        "question": "She ... a new laptop two weeks ago.",
+        "options": ["has bought", "bought", "buys", "had bought"],
+        "answerIndex": 1,
+        "explanation": "'Two weeks ago' указывает на точное прошлое время -> Past Simple (bought)."
+      }
+    ]
+  },
+  {
+    "id": "topic_conditionals_1_2",
+    "title": "Conditionals (First & Second)",
+    "level": "B1",
+    "category": "Conditionals",
+    "explanation": "### Условные предложения 1 и 2 типов\n\n* **First Conditional (Реальное условие в будущем):**\n  * `If + Present Simple, will + V1`\n  * *If it rains tomorrow, we will stay at home.*\n\n* **Second Conditional (Нереальное условие в настоящем / мечты):**\n  * `If + Past Simple, would + V1`\n  * *If I had one million dollars, I would travel around the world.*\n  * Для глагола 'to be' традиционно используется *were* для всех лиц: *If I were you, I would accept the offer.*",
+    "exercises": [
+      {
+        "question": "If you study hard, you ... the exam easily.",
+        "options": ["passed", "will pass", "would pass", "pass"],
+        "answerIndex": 1,
+        "explanation": "1-й тип (реальное будущее): If + Present Simple -> will + V1."
+      },
+      {
+        "question": "If I ... more free time, I would learn Spanish.",
+        "options": ["have", "had", "will have", "would have"],
+        "answerIndex": 1,
+        "explanation": "2-й тип (нереальное настоящее): If + Past Simple (had) -> would + V1."
+      }
+    ]
+  },
+  {
+    "id": "topic_passive_voice_advanced",
+    "title": "Passive Voice (All Tenses)",
+    "level": "B2",
+    "category": "Voice",
+    "explanation": "### Пассивный залог (Passive Voice)\n\nИспользуется, когда важно само действие или его объект, а не исполнитель.\n\n* Общая формула: `to be (в нужном времени) + V3 (Past Participle)`\n* **Present Simple:** `am/is/are + V3` (*English is spoken here*)\n* **Past Simple:** `was/were + V3` (*The bridge was built in 1900*)\n* **Present Perfect:** `have/has been + V3` (*The project has been completed*)\n* **Modals:** `modal + be + V3` (*Rules must be followed*)\n* Если нужно указать автора действия, используем предлог `by` (*written by Hemingway*).",
+    "exercises": [
+      {
+        "question": "The new operating system ... next month.",
+        "options": ["will release", "will be released", "is releasing", "has released"],
+        "answerIndex": 1,
+        "explanation": "Будущее время, пассив: will be + V3 -> will be released."
+      },
+      {
+        "question": "All sensitive data ... securely encrypted before transmission.",
+        "options": ["must be", "must to be", "is must", "must been"],
+        "answerIndex": 0,
+        "explanation": "Модальный глагол в пассиве: modal + be + V3 -> must be encrypted."
+      }
+    ]
+  },
+  {
+    "id": "topic_mixed_conditionals",
+    "title": "Third & Mixed Conditionals",
+    "level": "B2",
+    "category": "Conditionals",
+    "explanation": "### Third & Mixed Conditionals\n\n* **Third Conditional (Сожаление о прошлом):**\n  * `If + Past Perfect (had + V3), would have + V3`\n  * *If I had left earlier, I wouldn't have missed the flight.*\n\n* **Mixed Conditional (Прошлое влияет на настоящее):**\n  * `If + Past Perfect, would + V1`\n  * *If I had taken that job in London (в прошлом), I would live there now (сейчас).*",
+    "exercises": [
+      {
+        "question": "If she had known about the traffic jam, she ... another route.",
+        "options": ["would take", "would have taken", "will take", "took"],
+        "answerIndex": 1,
+        "explanation": "3-й тип (событие в прошлом): If had known -> would have taken."
+      }
+    ]
+  }
+]
