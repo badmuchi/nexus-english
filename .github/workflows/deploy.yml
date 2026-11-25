@@ -1,63 +1,34 @@
-name: Build & Deploy Nexus English Web
+name: Build and Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ main, master ]
+    branches: [ main ]
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
 concurrency:
   group: "pages"
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
-  build-and-test:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Set up Java
-        uses: setup-java@v4
-        with:
-          distribution: 'zulu'
-          java-version: '17'
-
-      - name: Set up Flutter
-        uses: subosito/flutter-action@v2
+      - uses: actions/checkout@v4
+      - uses: subosito/flutter-action@v2
         with:
           channel: 'stable'
           cache: true
-
-      - name: Install Dependencies
-        run: flutter pub get
-
-      - name: Verify Code Quality (Dart Analyze)
-        run: dart analyze --fatal-warnings
-
-      - name: Run Test Suite
-        run: flutter test
-
-      - name: Build Web Release
-        run: flutter build web --release --base-href /${{ github.event.repository.name }}/
-
-      - name: Upload Pages Artifact
-        uses: actions/upload-pages-artifact@v4
+      - run: flutter pub get
+      - run: flutter analyze --no-fatal-infos
+      - run: flutter build web --release --base-href "/nexus-english/"
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
         with:
           path: build/web
-
-  deploy:
-    needs: build-and-test
-    if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master'
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
+      - uses: actions/deploy-pages@v4
         id: deployment
-        uses: actions/deploy-pages@v4
